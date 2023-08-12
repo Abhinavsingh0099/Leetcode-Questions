@@ -1,3 +1,3 @@
 # Leetcode-Questions
 
-Problems for an interview on leetcode
+Practice problems for interview on leetcode
